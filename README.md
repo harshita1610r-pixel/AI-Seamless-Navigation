@@ -1,16 +1,9 @@
-# tryout
+# AI-Seamless-Navigation
 
-A new Flutter project.
+A Flutter project for the AI-ML based Intelligent Dead Reckoning System for seamless navigation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter development, view the official Flutter documentation.
